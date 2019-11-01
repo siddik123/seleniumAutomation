@@ -1,0 +1,2 @@
+12:54:40.637 [main] INFO  TestFramework.basics3 - {"status":"OK","place_id":"64269aad1b6ee2f597816ef09cb446e3","scope":"APP","reference":"b5ebafcf1ef895cd03fe35607678c12eb5ebafcf1ef895cd03fe35607678c12e","id":"b5ebafcf1ef895cd03fe35607678c12e"}
+12:54:40.861 [main] INFO  TestFramework.basics3 - 64269aad1b6ee2f597816ef09cb446e3

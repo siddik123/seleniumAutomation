@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6808" started-at="2019-10-14T10:51:27Z" finished-at="2019-10-14T10:51:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6808" started-at="2019-10-14T10:51:27Z" finished-at="2019-10-14T10:51:34Z">
+      <class name="TestFramework.basics5">
+        <test-method status="PASS" signature="extractingNamesAPI()" name="extractingNamesAPI" duration-ms="6787" started-at="2019-10-14T10:51:27Z" finished-at="2019-10-14T10:51:34Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

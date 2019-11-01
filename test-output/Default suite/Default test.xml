@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Pc" name="TestFramework.basics5" tests="1" failures="0" timestamp="14 Oct 2019 09:51:34 GMT" time="6.808" errors="0">
+  <testcase name="extractingNamesAPI" time="6.787" classname="TestFramework.basics5"/>
+</testsuite>
