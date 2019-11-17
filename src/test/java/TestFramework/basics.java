@@ -13,7 +13,7 @@ public class basics {
 public void getPlaceAPI()
 {
 		// TODO Auto-generated method stub
-
+		// Test your code changes
 		//BaseURL or Host
 		RestAssured.baseURI="https://maps.googleapis.com";
 		
